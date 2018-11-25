@@ -73,7 +73,7 @@ img:hover {
     padding: 0;
 }
 .main_skills {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 .main_skills li:hover {
@@ -164,7 +164,7 @@ span {
         display: inline-block;
         border-radius: 10px;
         box-shadow: 2px 2px 2px;
-        margin: 1em;
+        margin: 1em 0 1em 1em;
         padding: 1em;
         background: #D9AC45;
         font-weight: bold;
