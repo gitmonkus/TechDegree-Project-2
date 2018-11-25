@@ -7,8 +7,8 @@
 }
 .awesome {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: .2em;
+    left: .2em;
 }
 .clearfix:after {
     content: "";
@@ -26,7 +26,6 @@ a {
 }
 a:hover {
     color: orange;
-    text-decoration: underline;
 }
 h1 {
     margin: 0;
@@ -37,6 +36,9 @@ h2 {
     margin-top: 1em;
 }
 h1,
+.h1_style {
+    font-family: 'Condiment', cursive;
+}
 h2 {
     font-family: 'Yanone Kaffeesatz', sans-serif;    
 }
@@ -45,7 +47,8 @@ h2:hover {
     text-shadow: 2px 2px orange;
 }
 p {
-    font-family: 'Ranga', cursive;
+    font-family: 'Caveat', cursive;
+
 }
 p:hover,
 li:hover {
